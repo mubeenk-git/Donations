@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+ .icon {
+ 	padding:20px 0px 0px 20px;
+ 	color:whitesmoke;
+
+ }
+.icon img {
+	height:80px;
+	width:80px;
+}
+.background1 {
+   background-image: linear-gradient(rgb(36 35 35 / 70%),rgb(0 0 0)), url(../images/123.jpg);
+   background-position:center;
+   background-size:cover;
+   background-repeat: no-repeat;
+   background-color:none;
+   height:700px;
+   width:auto;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	position:sticky;
+	right:600px;
+	top:300px;
+	font-size:68px;
+	font-variant:small-caps;
+}
+
+h2 {
+	text-align:center;
+	position:static;
+	top:310px;
+	color: green;
+}
+.razorpay-embed-btn{
+	text-align: center;
+}
+
+section {
+	text-align: center;
+	background-color:#98fb983b;
+	height:150px;
+	padding:0px 100px;
+
+}
+.donatew {
+font-variant:small-caps;
+font-size:48px;
+color: black;
+position: static;
+}
+
+.flexbox{
+	display: inline-flex;
+	background-color:#98fb983b;
+	padding: 10px 99px;
+	padding-bottom:50px;
+}
+
+.flexbox img {
+	height:260px;
+	width:400px;
+	border-radius: 100px;
+	padding:0px 20px;
+}
+footer {
+	text-align:center;
+	color:white;
+	background-color:#000000d6;
+}
